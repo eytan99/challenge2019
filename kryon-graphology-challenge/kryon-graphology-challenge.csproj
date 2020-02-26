@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>kryon_graphology_challenge</AssemblyName>
+    <RootNamespace>kryon_graphology_challenge</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
